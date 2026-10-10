@@ -1,0 +1,20 @@
+export {
+  ArrowUpRight,
+  ArrowRight,
+  ArrowUp,
+  ArrowLeft,
+  Download,
+  Mail,
+  Moon,
+  Sun,
+  Menu,
+  X,
+  Check,
+  LoaderCircle,
+  Code2,
+  MapPin,
+  GraduationCap,
+  FlaskConical,
+  CheckCircle2,
+} from "lucide-react";
+export { FaGithub as Github, FaLinkedinIn as Linkedin } from "react-icons/fa6";
